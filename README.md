@@ -31,6 +31,8 @@ Here's a walkthrough of implemented features:
 
 <img src='![video-ezgif com-optimize](https://github.com/user-attachments/assets/e8e7aef8-a650-4380-9920-19e6aa2313fd)
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![video-ezgif com-optimize](https://github.com/user-attachments/assets/111abc78-48dd-4785-87eb-368906853b03)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Screen Recorder MP4 -> ezgif.com
